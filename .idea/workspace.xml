@@ -4,15 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7b26a8c2-f8fa-497d-8ea0-3f4e1f294e0e" name="Changes" comment="second">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw 2-03.05.2023.js" afterDir="false" />
+    <list default="true" id="7b26a8c2-f8fa-497d-8ea0-3f4e1f294e0e" name="Changes" comment="third commit">
       <change afterPath="$PROJECT_DIR$/hw2-03.05.23.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw 2-03.05.2023.js" beforeDir="false" afterPath="$PROJECT_DIR$/hw 2-03.05.2023.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,8 +65,16 @@
       <workItem from="1683225253888" duration="2728000" />
       <workItem from="1683403904096" duration="844000" />
       <workItem from="1683460565321" duration="6595000" />
-      <workItem from="1683476221877" duration="3646000" />
+      <workItem from="1683476221877" duration="7446000" />
     </task>
+    <task id="LOCAL-00001" summary="third commit">
+      <created>1683480060805</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1683480060805</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -91,6 +93,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first" />
-    <option name="LAST_COMMIT_MESSAGE" value="first" />
+    <MESSAGE value="third commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="third commit" />
   </component>
 </project>
